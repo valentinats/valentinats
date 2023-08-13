@@ -17,7 +17,7 @@ const me = {
   },
   ✉️: {
     telegram: 'equalscore',
-    email: 'vczydenzhapova@mail.ru'
+    email: 'vczydenzhapova@mail.ru',
     instagram: 'uvlsvn',
     discord: 'einsam#9151'
   }
