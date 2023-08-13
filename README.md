@@ -1,16 +1,28 @@
-### Hi there 👋
+## <img src="https://i.pinimg.com/originals/f3/c4/27/f3c4273b0dd25581ec1f6d2442c5c2c3.gif" width="50" height="50"> Hello! I'm Valentina ✿
 
-<!--
-**valentinats/valentinats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const me = {
+  🐣: '24',
+  🏢: 'Moscow',
+  💻: [HTML, CSS, JavaScript, Firebase, Parcel],
+  🎮: [
+    '📺 (Series)',
+    '📃 (Photoshop, Tumblr and RPG)',
+    '📖 (Eternal study and the excellent student syndrome)'
+  ],
+  📎: {
+    portfolio: 'in process...'
+  },
+  ✉️: {
+    telegram: 'equalscore',
+    email: 'vczydenzhapova@mail.ru'
+    instagram: 'uvlsvn',
+    discord: 'einsam#9151'
+  }
+  💼: (résumé) => {
+    window.location.replace('in process...')
+  }
+}
+```
