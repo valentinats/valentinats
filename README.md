@@ -6,7 +6,8 @@
 const me = {
   🐣: '24',
   🏢: 'Moscow',
-  💻: [HTML, CSS, JavaScript, Firebase, Parcel],
+  💻: [HTML, CSS, JavaScript, Firebase, React],
+  🔧: [Parcel, Vite],
   🎮: [
     '📺 (Series)',
     '📃 (Photoshop, Tumblr and RPG)',
